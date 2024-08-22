@@ -13,6 +13,7 @@
 <br>
 
 友链：<br>
+- [我的博客](https://elysiamobi.github.io/)
 - [UneedRun-支持成信和成中医校园跑](https://github.com/msojocs/AutoRun)
 - [SecondClass-第二课堂安卓客户端，支持远程签到](https://github.com/thriic/SecondClass)
 - [CUITGuide-成信指南](https://guide.cuit.dev/)
