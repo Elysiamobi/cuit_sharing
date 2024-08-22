@@ -10,7 +10,13 @@
   <a href="https://github.com/elysiamobi/cuit_sharing/blob/main/LICENSE"><img style="display: inline-block;" src="https://img.shields.io/github/license/elysiamobi/cuit_sharing" alt="GitHub license" /></a>
   <img style="display: inline-block;" src="https://img.shields.io/github/repo-size/elysiamobi/cuit_sharing" alt="GitHub repo size" />
 </div>
+<br>
 
+友链：<br>
+- [UneedRun-支持成信和成中医校园跑](https://github.com/msojocs/AutoRun)
+- [SecondClass-第二课堂安卓客户端，支持远程签到](https://github.com/thriic/SecondClass)
+- [CUITGuide-成信指南](https://guide.cuit.dev/)
+- [课程中心助手-一键完成学习任务](https://github.com/yanyaoli/cuit-course-helper)
 
 <br>
 
