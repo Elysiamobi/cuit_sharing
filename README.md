@@ -14,6 +14,8 @@
 
 友链：<br>
 - [我的博客](https://elysiamobi.github.io/)
+- [网络工程专业课程笔记](https://www.yuque.com/dogqi/schoolcourse)
+- [语雀知识库下载为markdown](https://github.com/gxr404/yuque-dl)
 - [UneedRun-支持成信和成中医校园跑](https://github.com/msojocs/AutoRun)
 - [SecondClass-第二课堂安卓客户端，支持远程签到](https://github.com/thriic/SecondClass)
 - [CUITGuide-成信指南](https://guide.cuit.dev/)
