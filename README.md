@@ -14,6 +14,7 @@
 
 友链：<br>
 - [我的博客](https://elysiamobi.github.io/)
+- [cuit教育邮箱申请-需要登录教务处账号](http://jxgl.cuit.edu.cn/jkdk)
 - [网络工程专业课程笔记](https://www.yuque.com/dogqi/schoolcourse)
 - [语雀知识库下载为markdown](https://github.com/gxr404/yuque-dl)
 - [UneedRun-支持成信和成中医校园跑](https://github.com/msojocs/AutoRun)
